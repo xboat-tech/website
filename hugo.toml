@@ -1,0 +1,4 @@
+baseURL = 'http://xboat.tech/'
+languageCode = 'en-us'
+title = 'XBoat - Opensource Self-Driving Boat'
+theme = 'ananke'
